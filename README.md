@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tino Rall -> @trallleuchtturm
-- 👀 I’m interested in PHP programming and eCommerce
+- 👀 I’m interested in Databases, PHP programming and eCommerce
 - 🌱 I’m currently learning Symfony 7 and Shopware 6
 - 💞️ I’m looking to collaborate on: I'm not looking
 - 📫 How to reach me: t.rall [at] leuchtturm.com
